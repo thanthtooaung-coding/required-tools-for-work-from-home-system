@@ -1,0 +1,3 @@
+Java - JDK 21
+MySQL 8.0
+apache-tomcat-10.1.25
